@@ -1,0 +1,11 @@
+[t60]
+FileName1=t60.txt
+URL1=http://localhost:8080/jpetstore/rb_bf32608msb?type=js3&sn=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=1&flavor=post&vi=GRHCUKABRPGCFBCUCBIUBHRMCIOBPAMD-0&modifiedSince=1779531483296&bp=3&app=ea7c4b59f27d43eb&crc=956697863&en=f4o018pw&end=1
+Total=1
+RequestHeaderFile=t60_RequestHeader.txt
+RequestBodyFile=t60_RequestBody.txt
+ResponseHeaderFile=t60_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_60.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

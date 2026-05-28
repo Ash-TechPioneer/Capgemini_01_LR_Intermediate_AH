@@ -1,0 +1,70 @@
+[
+    {
+        "actionName": "Checkout",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: Open_HomePage",
+                "infFile": "t1.inf",
+                "time": 1779592389804
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: Open_Login",
+                "infFile": "t2.inf",
+                "time": 1779592391921
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Submit Data: Login",
+                "infFile": "t3.inf",
+                "time": 1779592391967
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: View_Fish_Category",
+                "infFile": "t4.inf",
+                "time": 1779592395081
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: View_Product",
+                "infFile": "t5.inf",
+                "time": 1779592395160
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: Add_To_Cart",
+                "infFile": "t6.inf",
+                "time": 1779592395243
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Url: Checkout_Page",
+                "infFile": "t7.inf",
+                "time": 1779592397428
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Submit Data: Submit_Order",
+                "infFile": "t8.inf",
+                "time": 1779592397535
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Url: Logout",
+                "infFile": "t9.inf",
+                "time": 1779592399640
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "Checkout",
+                "rawStartTime": 1779592397281,
+                "rawEndTime": 1779592397549,
+                "thinkTime": 0.0,
+                "wastedTime": 0.01695990562438965
+            }
+        ]
+    }
+]

@@ -1,0 +1,11 @@
+[t21]
+FileName1=t21.txt
+URL1=http://localhost:8080/jpetstore/rb_bf32608msb?type=js3&sn=v_4_srv_4_sn_D456F9D9707C4F014CD0FFC5C4A12D92_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=4&flavor=post&vi=HHFIMBUJAUHURMNBNIWELHPRKUOHJFAN-0&modifiedSince=1779531483296&bp=3&app=ea7c4b59f27d43eb&crc=4186301306&en=f4o018pw&end=1
+Total=1
+RequestHeaderFile=t21_RequestHeader.txt
+RequestBodyFile=t21_RequestBody.txt
+ResponseHeaderFile=t21_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_21.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

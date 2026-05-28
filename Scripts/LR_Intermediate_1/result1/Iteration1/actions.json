@@ -1,0 +1,46 @@
+[
+    {
+        "actionName": "Login",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: Open_HomePage",
+                "infFile": "t1.inf",
+                "time": 1779592578032
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: Open_Login_Page",
+                "infFile": "t2.inf",
+                "time": 1779592583127
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: Login_Page_Correlation",
+                "infFile": "t3.inf",
+                "time": 1779592583204
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Submit Data: User_Login",
+                "infFile": "t4.inf",
+                "time": 1779592583257
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: Logout",
+                "infFile": "t5.inf",
+                "time": 1779592586363
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "Login",
+                "rawStartTime": 1779592583208,
+                "rawEndTime": 1779592583271,
+                "thinkTime": 0.0,
+                "wastedTime": 0.010759830474853516
+            }
+        ]
+    }
+]

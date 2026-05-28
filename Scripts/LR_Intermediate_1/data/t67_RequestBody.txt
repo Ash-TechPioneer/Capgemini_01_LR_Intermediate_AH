@@ -1,0 +1,7 @@
+"$a=1%7C6%7C_event_%7C1779551171640%7C_wv_%7CAAI%7C1%7CfIS%7C8062%7CfID%7C1$rId=RID_1078536306$"
+"rpId=-296151352$domR=1779551162426$tvn=%2Fjpetstore%2Factions%2FCatalog.action$tvt=17795511622"
+"38$tvm=i1%3Bk0%3Bh0$tvtrg=1$w=1536$h=842$sw=1536$sh=960$ni=4g|1.55$egf=1589PRTUX$url=http%3A%2"
+"F%2Flocalhost%3A8080%2Fjpetstore%2Factions%2FCatalog.action$title=JPetStore%20Demo$latC=0$app="
+"ea7c4b59f27d43eb$vi=PVNPHECWETRFGMPCSGEPUQUKSHRAQNTK-0$fId=551162385_171$v=10337260504112723$v"
+"ID=177955115375531MFC41L7BDCA9O6K5LD4QJC198ENV9R$rf=http%3A%2F%2Flocalhost%3A8080%2Fjpetstore%"
+"2Factions%2FCatalog.action$time=1779551173645"

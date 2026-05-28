@@ -1,0 +1,19 @@
+POST /jpetstore/rb_bf32608msb?sc=5&ty=js&pv=4&ai=ea7c4b59f27d43eb&en=f4o018pw&cr=1779531483296&av=1.337.9&cy=event&bc=738695413&co=snappy&si=v_4_srv_4_sn_D456F9D9707C4F014CD0FFC5C4A12D92_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&st=1779551976066&ss=0&qc=3585452970&end=1 HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Content-Length: 4591
+sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108"
+sec-ch-ua-platform: "Windows"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+content-type: text/plain
+Accept: */*
+Origin: http://localhost:8080
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: same-origin
+Sec-Fetch-Dest: empty
+Referer: http://localhost:8080/jpetstore/actions/Catalog.action;jsessionid=E81E6C649276A0CA5A2415B36BA98F99
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: JSESSIONID=E81E6C649276A0CA5A2415B36BA98F99; dtCookief4o018pw=v_4_srv_4_sn_D456F9D9707C4F014CD0FFC5C4A12D92_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1; rxVisitorf4o018pw=1779551938630BL43GI64CTTIHTJ7KCQJB8ODUK03QNKM; dtSaf4o018pw=-; rxvtf4o018pw=1779553774050|1779551938632; dtPCf4o018pw=4$551973955_464h-vHHFIMBUJAUHURMNBNIWELHPRKUOHJFAN-0e0
+

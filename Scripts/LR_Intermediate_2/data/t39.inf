@@ -1,0 +1,11 @@
+[t39]
+FileName1=t39.htm
+URL1=http://localhost:8080/jpetstore/actions/Catalog.action;jsessionid=7681300B94C91B08394DAC956F842D61
+Total=1
+RequestHeaderFile=t39_RequestHeader.txt
+RequestBodyFile=t39_RequestBody.txt
+ResponseHeaderFile=t39_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_39.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

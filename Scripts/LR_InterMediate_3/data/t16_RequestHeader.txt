@@ -1,0 +1,18 @@
+GET /jpetstore/actions/Catalog.action?viewCategory=&categoryId=FISH HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8080/jpetstore/actions/Catalog.action
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: JSESSIONID=A20E81FDE550704D9F8A1FE4C490C476; dtCookief4o018pw=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1; rxVisitorf4o018pw=1779553123578QT5ABMH9J4C4DDD3FRFPOB1CN2JR3R5S; rxvtf4o018pw=1779554930009|1779553123580; dtPCf4o018pw=1$553129969_999h-vGRHCUKABRPGCFBCUCBIUBHRMCIOBPAMD-0e0; dtSaf4o018pw=true%7CC%7C-1%7Cfish_icon%7C-%7C1779553136594%7C553129969_999%7Chttp%3A%2F%2Flocalhost%3A8080%2Fjpetstore%2Factions%2FCatalog.action%7C%7C%7C%7C
+

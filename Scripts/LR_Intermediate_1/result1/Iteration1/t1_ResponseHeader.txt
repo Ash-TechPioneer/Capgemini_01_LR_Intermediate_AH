@@ -1,0 +1,13 @@
+HTTP/1.1 200 
+Set-Cookie: dtCookief4o018pw=v_4_srv_1_sn_47DFBED8086A04D866D6E1F6E303FEB9_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1; Path=/
+X-OneAgent-JS-Injection: true
+Server-Timing: dtTrId;desc="2e71b0239b678f3869c08332278aa07c", dtSInfo;desc="0"
+Server-Timing: dtRpid;desc="491046319"
+Set-Cookie: JSESSIONID=78DB1CC6E84809E863E5B7B3FD9E375F; Path=/jpetstore; HttpOnly
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-IN
+Content-Length: 6157
+Date: Sun, 24 May 2026 03:16:17 GMT
+Keep-Alive: timeout=20
+Connection: keep-alive
+

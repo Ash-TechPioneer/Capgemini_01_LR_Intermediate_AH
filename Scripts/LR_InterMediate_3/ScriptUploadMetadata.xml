@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>LR_InterMediate_3</ScriptName>
+  <Protocol>Web - HTTP/HTML</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.c" Filter="2" />
+    <FileEntry Name="Checkout.c" Filter="2" />
+    <FileEntry Name="vuser_end.c" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="LR_InterMediate_3.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="LR_InterMediate_3.prm" Filter="2" />
+    <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="L_Name.dat" Filter="2" />
+    <FileEntry Name="Password.dat" Filter="2" />
+    <FileEntry Name="F_Name.dat" Filter="2" />
+    <FileEntry Name="State.dat" Filter="2" />
+    <FileEntry Name="Username.dat" Filter="2" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="custom_body_variables.txt" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="lrw_custom_body.h" Filter="1" />
+    <FileEntry Name="LR_InterMediate__3.prm.bak" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrvbb2.11.log" Filter="1" />
+    <FileEntry Name="mdrvBYN.609.log" Filter="1" />
+    <FileEntry Name="mdrvCYv.177.log" Filter="1" />
+    <FileEntry Name="mdrvfM5.507.log" Filter="1" />
+    <FileEntry Name="mdrvfND.597.log" Filter="1" />
+    <FileEntry Name="mdrvjHp.853.log" Filter="1" />
+    <FileEntry Name="mdrvngw.817.log" Filter="1" />
+    <FileEntry Name="mdrvslq.555.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
+    <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="data\" Filter="1" />
+    <FileEntry Name="result1\" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>

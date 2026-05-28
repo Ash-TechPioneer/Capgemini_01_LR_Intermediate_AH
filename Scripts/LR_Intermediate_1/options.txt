@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\Load Runner\Vuser\Scripts\LR_Intermediate_1
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ed:\load runner\vuser\scripts\lr_intermediate_1\\logfile.log
+d:\load runner\vuser\scripts\lr_intermediate_1\\combined_LR_Intermediate_1.c
+d:\load runner\vuser\scripts\lr_intermediate_1\\pre_cci.c

@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+X-Content-Type-Options: nosniff
+x-cup-server-proof: 3046022100f52bb9aca987268cd65afb3eeef14f96522ca18ee4f9627e0c625b9ff7200d7b022100c65d2ac8e4b6ec78182cc301b97c1435337f92c9b78a86ad4d5eb6e46ff3f491:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+ETag: W/"3046022100f52bb9aca987268cd65afb3eeef14f96522ca18ee4f9627e0c625b9ff7200d7b022100c65d2ac8e4b6ec78182cc301b97c1435337f92c9b78a86ad4d5eb6e46ff3f491:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Sat, 23 May 2026 15:42:42 GMT
+Content-Disposition: attachment; filename="json.txt"; filename*=UTF-8''json.txt
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: same-site
+Content-Encoding: gzip
+Transfer-Encoding: chunked
+Server: ESF
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+

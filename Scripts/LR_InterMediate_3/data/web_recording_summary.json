@@ -1,0 +1,745 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "x-goog-update-updater",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "x-goog-update-interactivity",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "x-goog-update-appid",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "upgrade-insecure-requests",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-fetch-user",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-fetch-site",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-fetch-mode",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-fetch-dest",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-ch-ua-platform",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-ch-ua-mobile",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-ch-ua",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "origin",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "cache-control",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": false,
+      "type": "text/plain"
+    },
+    {
+      "IsNonResource": true,
+      "type": "text/html"
+    },
+    {
+      "IsNonResource": true,
+      "type": "application/json"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "IsWinInetMode": false,
+    "MaxUsedConnections": 3,
+    "RecordedBrowser": "c:\\program files (x86)\\micro focus\\loadrunner\\bin\\chrome\\chrome_proxy.exe",
+    "RecordingDate": "May-23-2026",
+    "RecordingDuration": 68860,
+    "RecordingMode": "N/A",
+    "RecordingTimeStamp": 1779553107,
+    "RecordingType": "Application",
+    "TotalBytesReceived": 66783,
+    "TotalBytesSent": 213345,
+    "TotalRequests": 67,
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+  },
+  "HostInfo": [
+    {
+      "DomainName": "localhost",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "[::1]",
+          "IncludeInScript": true,
+          "Name": "localhost",
+          "Port": 8080,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 16,
+              "EventId": 168,
+              "HttpStatus": 200,
+              "Size": 118,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?type=js3&sn=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=1&flavor=post&vi=GRHCUKABRPGCFBCUCBIUBHRMCIOBPAMD-0&modifiedSince=1779531483296&bp=3&app=ea7c4b59f27d43eb&crc=1154055205&en=f4o018pw&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 16,
+              "EventId": 166,
+              "HttpStatus": 200,
+              "Size": 66,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?sc=5&ty=js&pv=4&ai=ea7c4b59f27d43eb&en=f4o018pw&cr=1779531483296&av=1.337.9&cy=event&bc=2242414296&co=snappy&si=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&st=1779553180692&ss=0&qc=1652899181&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 15,
+              "EventId": 164,
+              "HttpStatus": 200,
+              "Size": 118,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?type=js3&sn=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=1&flavor=post&vi=GRHCUKABRPGCFBCUCBIUBHRMCIOBPAMD-0&modifiedSince=1779531483296&bp=3&app=ea7c4b59f27d43eb&crc=580695512&en=f4o018pw&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 16,
+              "EventId": 162,
+              "HttpStatus": 200,
+              "Size": 66,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?sc=2&ty=js&pv=4&ai=ea7c4b59f27d43eb&en=f4o018pw&cr=1779531483296&av=1.337.9&cy=event&bc=3224259117&co=snappy&si=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&st=1779553178607&ss=1&qc=3052655100&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 15,
+              "EventId": 160,
+              "HttpStatus": 200,
+              "Size": 118,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?type=js3&sn=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=1&flavor=post&vi=GRHCUKABRPGCFBCUCBIUBHRMCIOBPAMD-0&modifiedSince=1779531483296&bp=3&app=ea7c4b59f27d43eb&crc=956697863&en=f4o018pw&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 16,
+              "EventId": 158,
+              "HttpStatus": 200,
+              "Size": 5542,
+              "URL": "http://localhost:8080/jpetstore/actions/Catalog.action"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 15,
+              "EventId": 156,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "http://localhost:8080/jpetstore/actions/Account.action?signoff="
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 0,
+              "EventId": 154,
+              "HttpStatus": 200,
+              "Size": 118,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?type=js3&sn=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=1&flavor=post&vi=GRHCUKABRPGCFBCUCBIUBHRMCIOBPAMD-0&modifiedSince=1779531483296&bp=3&app=ea7c4b59f27d43eb&crc=3515402462&en=f4o018pw&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 16,
+              "EventId": 152,
+              "HttpStatus": 200,
+              "Size": 118,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?type=js3&sn=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=1&flavor=post&vi=GRHCUKABRPGCFBCUCBIUBHRMCIOBPAMD-0&modifiedSince=1779531483296&bp=3&app=ea7c4b59f27d43eb&crc=2739017144&en=f4o018pw&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 16,
+              "EventId": 150,
+              "HttpStatus": 200,
+              "Size": 66,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?sc=2&ty=js&pv=4&ai=ea7c4b59f27d43eb&en=f4o018pw&cr=1779531483296&av=1.337.9&cy=event&bc=4177623239&co=snappy&si=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&st=1779553176505&ss=1&qc=4194584506&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 16,
+              "EventId": 148,
+              "HttpStatus": 200,
+              "Size": 118,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?type=js3&sn=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=1&flavor=post&vi=GRHCUKABRPGCFBCUCBIUBHRMCIOBPAMD-0&modifiedSince=1779531483296&bp=3&app=ea7c4b59f27d43eb&crc=1476331622&en=f4o018pw&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 31,
+              "EventId": 146,
+              "HttpStatus": 200,
+              "Size": 5739,
+              "URL": "http://localhost:8080/jpetstore/actions/Catalog.action"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 16,
+              "EventId": 144,
+              "HttpStatus": 200,
+              "Size": 66,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?sc=5&ty=js&pv=4&ai=ea7c4b59f27d43eb&en=f4o018pw&cr=1779531483296&av=1.337.9&cy=event&bc=270881569&co=snappy&si=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&st=1779553174111&ss=0&qc=229289510&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 0,
+              "EventId": 138,
+              "HttpStatus": 200,
+              "Size": 118,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?type=js3&sn=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=1&flavor=post&vi=GRHCUKABRPGCFBCUCBIUBHRMCIOBPAMD-0&modifiedSince=1779531483296&bp=3&app=ea7c4b59f27d43eb&crc=4050507402&en=f4o018pw&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 15,
+              "EventId": 134,
+              "HttpStatus": 200,
+              "Size": 66,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?sc=5&ty=js&pv=4&ai=ea7c4b59f27d43eb&en=f4o018pw&cr=1779531483296&av=1.337.9&cy=event&bc=2339412485&co=snappy&si=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&st=1779553172087&ss=0&qc=430805124&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 16,
+              "EventId": 131,
+              "HttpStatus": 200,
+              "Size": 118,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?type=js3&sn=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=1&flavor=post&vi=GRHCUKABRPGCFBCUCBIUBHRMCIOBPAMD-0&modifiedSince=1779531483296&bp=3&app=ea7c4b59f27d43eb&crc=471224242&en=f4o018pw&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 0,
+              "EventId": 129,
+              "HttpStatus": 200,
+              "Size": 66,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?sc=2&ty=js&pv=4&ai=ea7c4b59f27d43eb&en=f4o018pw&cr=1779531483296&av=1.337.9&cy=event&bc=234434278&co=snappy&si=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&st=1779553169953&ss=1&qc=2948431597&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 16,
+              "EventId": 127,
+              "HttpStatus": 200,
+              "Size": 118,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?type=js3&sn=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=1&flavor=post&vi=GRHCUKABRPGCFBCUCBIUBHRMCIOBPAMD-0&modifiedSince=1779531483296&bp=3&app=ea7c4b59f27d43eb&crc=403514491&en=f4o018pw&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 875,
+              "EventId": 125,
+              "HttpStatus": 200,
+              "Size": 6042,
+              "URL": "http://localhost:8080/jpetstore/actions/Order.action?newOrder=&confirmed=true"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 15,
+              "EventId": 123,
+              "HttpStatus": 200,
+              "Size": 66,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?sc=5&ty=js&pv=4&ai=ea7c4b59f27d43eb&en=f4o018pw&cr=1779531483296&av=1.337.9&cy=event&bc=2134059085&co=snappy&si=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&st=1779553169414&ss=0&qc=3319922751&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 31,
+              "EventId": 121,
+              "HttpStatus": 200,
+              "Size": 118,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?type=js3&sn=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=1&flavor=post&vi=GRHCUKABRPGCFBCUCBIUBHRMCIOBPAMD-0&modifiedSince=1779531483296&bp=3&app=ea7c4b59f27d43eb&crc=2585793162&en=f4o018pw&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 16,
+              "EventId": 119,
+              "HttpStatus": 200,
+              "Size": 118,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?type=js3&sn=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=1&flavor=post&vi=GRHCUKABRPGCFBCUCBIUBHRMCIOBPAMD-0&modifiedSince=1779531483296&bp=3&app=ea7c4b59f27d43eb&crc=2643464926&en=f4o018pw&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 16,
+              "EventId": 117,
+              "HttpStatus": 200,
+              "Size": 66,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?sc=2&ty=js&pv=4&ai=ea7c4b59f27d43eb&en=f4o018pw&cr=1779531483296&av=1.337.9&cy=event&bc=1504343324&co=snappy&si=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&st=1779553167299&ss=1&qc=525230474&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 15,
+              "EventId": 115,
+              "HttpStatus": 200,
+              "Size": 118,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?type=js3&sn=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=1&flavor=post&vi=GRHCUKABRPGCFBCUCBIUBHRMCIOBPAMD-0&modifiedSince=1779531483296&bp=3&app=ea7c4b59f27d43eb&crc=258212856&en=f4o018pw&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 562,
+              "EventId": 113,
+              "HttpStatus": 200,
+              "Size": 5300,
+              "URL": "http://localhost:8080/jpetstore/actions/Order.action"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 0,
+              "EventId": 111,
+              "HttpStatus": 200,
+              "Size": 118,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?type=js3&sn=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=1&flavor=post&vi=GRHCUKABRPGCFBCUCBIUBHRMCIOBPAMD-0&modifiedSince=1779531483296&bp=3&app=ea7c4b59f27d43eb&crc=826570616&en=f4o018pw&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 0,
+              "EventId": 109,
+              "HttpStatus": 200,
+              "Size": 66,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?sc=5&ty=js&pv=4&ai=ea7c4b59f27d43eb&en=f4o018pw&cr=1779531483296&av=1.337.9&cy=event&bc=1068472581&co=snappy&si=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&st=1779553164735&ss=0&qc=4268407203&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 16,
+              "EventId": 107,
+              "HttpStatus": 200,
+              "Size": 118,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?type=js3&sn=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=1&flavor=post&vi=GRHCUKABRPGCFBCUCBIUBHRMCIOBPAMD-0&modifiedSince=1779531483296&bp=3&app=ea7c4b59f27d43eb&crc=155480910&en=f4o018pw&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 15,
+              "EventId": 105,
+              "HttpStatus": 200,
+              "Size": 66,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?sc=2&ty=js&pv=4&ai=ea7c4b59f27d43eb&en=f4o018pw&cr=1779531483296&av=1.337.9&cy=event&bc=3463264157&co=snappy&si=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&st=1779553162619&ss=1&qc=1817274324&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 0,
+              "EventId": 103,
+              "HttpStatus": 200,
+              "Size": 118,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?type=js3&sn=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=1&flavor=post&vi=GRHCUKABRPGCFBCUCBIUBHRMCIOBPAMD-0&modifiedSince=1779531483296&bp=3&app=ea7c4b59f27d43eb&crc=457230059&en=f4o018pw&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 563,
+              "EventId": 101,
+              "HttpStatus": 200,
+              "Size": 6137,
+              "URL": "http://localhost:8080/jpetstore/actions/Order.action?newOrderForm="
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 15,
+              "EventId": 99,
+              "HttpStatus": 200,
+              "Size": 118,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?type=js3&sn=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=1&flavor=post&vi=GRHCUKABRPGCFBCUCBIUBHRMCIOBPAMD-0&modifiedSince=1779531483296&bp=3&app=ea7c4b59f27d43eb&crc=779413673&en=f4o018pw&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 0,
+              "EventId": 97,
+              "HttpStatus": 200,
+              "Size": 66,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?sc=5&ty=js&pv=4&ai=ea7c4b59f27d43eb&en=f4o018pw&cr=1779531483296&av=1.337.9&cy=event&bc=4246262942&co=snappy&si=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&st=1779553149693&ss=0&qc=3279138099&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 0,
+              "EventId": 95,
+              "HttpStatus": 200,
+              "Size": 118,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?type=js3&sn=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=1&flavor=post&vi=GRHCUKABRPGCFBCUCBIUBHRMCIOBPAMD-0&modifiedSince=1779531483296&bp=3&app=ea7c4b59f27d43eb&crc=1024181673&en=f4o018pw&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 0,
+              "EventId": 93,
+              "HttpStatus": 200,
+              "Size": 66,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?sc=2&ty=js&pv=4&ai=ea7c4b59f27d43eb&en=f4o018pw&cr=1779531483296&av=1.337.9&cy=event&bc=3965030095&co=snappy&si=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&st=1779553147589&ss=1&qc=484089721&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 15,
+              "EventId": 91,
+              "HttpStatus": 200,
+              "Size": 118,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?type=js3&sn=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=1&flavor=post&vi=GRHCUKABRPGCFBCUCBIUBHRMCIOBPAMD-0&modifiedSince=1779531483296&bp=3&app=ea7c4b59f27d43eb&crc=3617687830&en=f4o018pw&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 703,
+              "EventId": 89,
+              "HttpStatus": 200,
+              "Size": 5407,
+              "URL": "http://localhost:8080/jpetstore/actions/Cart.action?addItemToCart=&workingItemId=EST-1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 0,
+              "EventId": 87,
+              "HttpStatus": 200,
+              "Size": 118,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?type=js3&sn=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=1&flavor=post&vi=GRHCUKABRPGCFBCUCBIUBHRMCIOBPAMD-0&modifiedSince=1779531483296&bp=3&app=ea7c4b59f27d43eb&crc=3518048192&en=f4o018pw&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 15,
+              "EventId": 85,
+              "HttpStatus": 200,
+              "Size": 66,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?sc=5&ty=js&pv=4&ai=ea7c4b59f27d43eb&en=f4o018pw&cr=1779531483296&av=1.337.9&cy=event&bc=2680693083&co=snappy&si=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&st=1779553146034&ss=0&qc=1199506635&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 16,
+              "EventId": 83,
+              "HttpStatus": 200,
+              "Size": 118,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?type=js3&sn=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=1&flavor=post&vi=GRHCUKABRPGCFBCUCBIUBHRMCIOBPAMD-0&modifiedSince=1779531483296&bp=3&app=ea7c4b59f27d43eb&crc=3459472506&en=f4o018pw&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 16,
+              "EventId": 81,
+              "HttpStatus": 200,
+              "Size": 66,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?sc=2&ty=js&pv=4&ai=ea7c4b59f27d43eb&en=f4o018pw&cr=1779531483296&av=1.337.9&cy=event&bc=2419476243&co=snappy&si=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&st=1779553143916&ss=1&qc=1050054629&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 0,
+              "EventId": 79,
+              "HttpStatus": 200,
+              "Size": 118,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?type=js3&sn=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=1&flavor=post&vi=GRHCUKABRPGCFBCUCBIUBHRMCIOBPAMD-0&modifiedSince=1779531483296&bp=3&app=ea7c4b59f27d43eb&crc=4213780744&en=f4o018pw&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 62,
+              "EventId": 77,
+              "HttpStatus": 200,
+              "Size": 4836,
+              "URL": "http://localhost:8080/jpetstore/actions/Catalog.action?viewProduct=&productId=FI-SW-01"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 16,
+              "EventId": 72,
+              "HttpStatus": 200,
+              "Size": 118,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?type=js3&sn=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=1&flavor=post&vi=GRHCUKABRPGCFBCUCBIUBHRMCIOBPAMD-0&modifiedSince=1779531483296&bp=3&app=ea7c4b59f27d43eb&crc=3197537121&en=f4o018pw&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 16,
+              "EventId": 70,
+              "HttpStatus": 200,
+              "Size": 66,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?sc=5&ty=js&pv=4&ai=ea7c4b59f27d43eb&en=f4o018pw&cr=1779531483296&av=1.337.9&cy=event&bc=678905888&co=snappy&si=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&st=1779553139248&ss=0&qc=636865332&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 16,
+              "EventId": 68,
+              "HttpStatus": 200,
+              "Size": 118,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?type=js3&sn=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=1&flavor=post&vi=GRHCUKABRPGCFBCUCBIUBHRMCIOBPAMD-0&modifiedSince=1779531483296&bp=3&app=ea7c4b59f27d43eb&crc=3310261266&en=f4o018pw&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 16,
+              "EventId": 66,
+              "HttpStatus": 200,
+              "Size": 66,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?sc=2&ty=js&pv=4&ai=ea7c4b59f27d43eb&en=f4o018pw&cr=1779531483296&av=1.337.9&cy=event&bc=2523482188&co=snappy&si=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&st=1779553137119&ss=1&qc=2105725586&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 31,
+              "EventId": 64,
+              "HttpStatus": 200,
+              "Size": 118,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?type=js3&sn=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=1&flavor=post&vi=GRHCUKABRPGCFBCUCBIUBHRMCIOBPAMD-0&modifiedSince=1779531483296&bp=3&app=ea7c4b59f27d43eb&crc=231292655&en=f4o018pw&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 500,
+              "EventId": 62,
+              "HttpStatus": 200,
+              "Size": 4650,
+              "URL": "http://localhost:8080/jpetstore/actions/Catalog.action?viewCategory=&categoryId=FISH"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 16,
+              "EventId": 60,
+              "HttpStatus": 200,
+              "Size": 118,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?type=js3&sn=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=1&flavor=post&vi=GRHCUKABRPGCFBCUCBIUBHRMCIOBPAMD-0&modifiedSince=1779531483296&bp=3&app=ea7c4b59f27d43eb&crc=582726293&en=f4o018pw&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 16,
+              "EventId": 58,
+              "HttpStatus": 200,
+              "Size": 66,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?sc=5&ty=js&pv=4&ai=ea7c4b59f27d43eb&en=f4o018pw&cr=1779531483296&av=1.337.9&cy=event&bc=2361676774&co=snappy&si=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&st=1779553132030&ss=0&qc=3978149748&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 16,
+              "EventId": 54,
+              "HttpStatus": 200,
+              "Size": 118,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?type=js3&sn=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=1&flavor=post&vi=GRHCUKABRPGCFBCUCBIUBHRMCIOBPAMD-0&modifiedSince=1779531483296&bp=3&app=ea7c4b59f27d43eb&crc=4066804141&en=f4o018pw&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 16,
+              "EventId": 51,
+              "HttpStatus": 200,
+              "Size": 66,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?sc=2&ty=js&pv=4&ai=ea7c4b59f27d43eb&en=f4o018pw&cr=1779531483296&av=1.337.9&cy=event&bc=3072037382&co=snappy&si=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&st=1779553129933&ss=1&qc=3080563353&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 15,
+              "EventId": 49,
+              "HttpStatus": 200,
+              "Size": 118,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?type=js3&sn=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=1&flavor=post&vi=GRHCUKABRPGCFBCUCBIUBHRMCIOBPAMD-0&modifiedSince=1779531483296&bp=3&app=ea7c4b59f27d43eb&crc=2915353243&en=f4o018pw&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 31,
+              "EventId": 47,
+              "HttpStatus": 200,
+              "Size": 5739,
+              "URL": "http://localhost:8080/jpetstore/actions/Catalog.action"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 16,
+              "EventId": 45,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "http://localhost:8080/jpetstore/actions/Account.action"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 16,
+              "EventId": 43,
+              "HttpStatus": 200,
+              "Size": 118,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?type=js3&sn=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=1&flavor=post&vi=GRHCUKABRPGCFBCUCBIUBHRMCIOBPAMD-0&modifiedSince=1779531483296&bp=3&app=ea7c4b59f27d43eb&crc=160504294&en=f4o018pw&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 16,
+              "EventId": 41,
+              "HttpStatus": 200,
+              "Size": 118,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?type=js3&sn=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=1&flavor=post&vi=GRHCUKABRPGCFBCUCBIUBHRMCIOBPAMD-0&modifiedSince=1779531483296&bp=3&app=ea7c4b59f27d43eb&crc=1437941651&en=f4o018pw&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 0,
+              "EventId": 37,
+              "HttpStatus": 200,
+              "Size": 66,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?sc=2&ty=js&pv=4&ai=ea7c4b59f27d43eb&en=f4o018pw&cr=1779531483296&av=1.337.9&cy=event&bc=2592824058&co=snappy&si=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&st=1779553127905&ss=1&qc=3100601807&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 16,
+              "EventId": 35,
+              "HttpStatus": 200,
+              "Size": 118,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?type=js3&sn=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=1&flavor=post&vi=GRHCUKABRPGCFBCUCBIUBHRMCIOBPAMD-0&modifiedSince=1779531483296&bp=3&app=ea7c4b59f27d43eb&crc=1969292222&en=f4o018pw&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 47,
+              "EventId": 33,
+              "HttpStatus": 200,
+              "Size": 4600,
+              "URL": "http://localhost:8080/jpetstore/actions/Account.action;jsessionid=A20E81FDE550704D9F8A1FE4C490C476?signonForm="
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 16,
+              "EventId": 30,
+              "HttpStatus": 200,
+              "Size": 118,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?type=js3&sn=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=1&flavor=post&vi=GRHCUKABRPGCFBCUCBIUBHRMCIOBPAMD-0&modifiedSince=1779531483296&bp=3&app=ea7c4b59f27d43eb&crc=310101096&en=f4o018pw&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 0,
+              "EventId": 28,
+              "HttpStatus": 200,
+              "Size": 66,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?sc=5&ty=js&pv=4&ai=ea7c4b59f27d43eb&en=f4o018pw&cr=1779531483296&av=1.337.9&cy=event&bc=3897088098&co=snappy&si=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&st=1779553125748&ss=0&qc=3648876712&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 0,
+              "EventId": 24,
+              "HttpStatus": 200,
+              "Size": 118,
+              "URL": "http://localhost:8080/jpetstore/rb_bf32608msb?type=js3&sn=v_4_srv_1_sn_5A1A1CC30FCC34F33FE19DC31EEE92D7_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&svrid=1&flavor=post&vi=GRHCUKABRPGCFBCUCBIUBHRMCIOBPAMD-0&modifiedSince=1779531483296&bp=3&app=ea7c4b59f27d43eb&crc=605478517&en=f4o018pw&end=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 16,
+              "EventId": 16,
+              "HttpStatus": 404,
+              "Size": 683,
+              "URL": "http://localhost:8080/favicon.ico"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 47,
+              "EventId": 9,
+              "HttpStatus": 200,
+              "Size": 6157,
+              "URL": "http://localhost:8080/jpetstore/actions/Catalog.action"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "googleapis.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "[2404:6800:4002:824::200e]",
+          "IncludeInScript": true,
+          "Name": "update.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 391,
+              "EventId": 140,
+              "HttpStatus": 200,
+              "Size": 855,
+              "URL": "https://update.googleapis.com/service/update2/json?cup2key=12:L1oD3aVnFKX6w-YZSHVbdjQhXBYwgldT3T9T3HOW9rY&cup2hreq=78ac5f116ee3a14c4cd331f94923bd5bc03125be13b5e5a7b0d0919b51346972"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 13
+}

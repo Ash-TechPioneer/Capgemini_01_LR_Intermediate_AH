@@ -1,0 +1,11 @@
+[t55]
+FileName1=t55.txt
+URL1=http://localhost:8080/jpetstore/rb_bf32608msb?sc=5&ty=js&pv=4&ai=ea7c4b59f27d43eb&en=f4o018pw&cr=1779531483296&av=1.337.9&cy=event&bc=2579839129&co=snappy&si=v_4_srv_2_sn_6407E28FD0FD2A2C31B9200596EA129F_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1&st=1779552362614&ss=0&qc=2669637397&end=1
+Total=1
+RequestHeaderFile=t55_RequestHeader.txt
+RequestBodyFile=t55_RequestBody.txt
+ResponseHeaderFile=t55_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_55.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

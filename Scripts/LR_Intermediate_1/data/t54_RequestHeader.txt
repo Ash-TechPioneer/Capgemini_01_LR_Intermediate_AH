@@ -1,0 +1,18 @@
+GET /jpetstore/actions/Account.action;jsessionid=B0E9E2EE641BA9253D7C9AE279D8007A?signonForm= HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8080/jpetstore/actions/Catalog.action
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: JSESSIONID=B0E9E2EE641BA9253D7C9AE279D8007A; dtCookief4o018pw=v_4_srv_1_sn_5FD5AE18A27F2D030298B0E6443492DC_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1; rxVisitorf4o018pw=177955115375531MFC41L7BDCA9O6K5LD4QJC198ENV9R; rxvtf4o018pw=1779552953842|1779551153758; dtPCf4o018pw=1$551153752_668h-vPVNPHECWETRFGMPCSGEPUQUKSHRAQNTK-0e0; dtSaf4o018pw=true%7CC%7C-1%7CSign%20In%7C-%7C1779551156601%7C551153752_668%7Chttp%3A%2F%2Flocalhost%3A8080%2Fjpetstore%2Factions%2FCatalog.action%7C%7C%7C%7C
+

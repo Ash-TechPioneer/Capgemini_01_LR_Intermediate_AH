@@ -1,0 +1,46 @@
+[
+    {
+        "actionName": "Search",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: Open_Catalog",
+                "infFile": "t1.inf",
+                "time": 1779592598627
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: Search_Page",
+                "infFile": "t2.inf",
+                "time": 1779592598698
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Submit Data: Product_Search",
+                "infFile": "t3.inf",
+                "time": 1779592603583
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: View_Product",
+                "infFile": "t4.inf",
+                "time": 1779592605734
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: View_Item",
+                "infFile": "t5.inf",
+                "time": 1779592606506
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "Search",
+                "rawStartTime": 1779592602754,
+                "rawEndTime": 1779592603595,
+                "thinkTime": 0.0,
+                "wastedTime": 0.011016845703125
+            }
+        ]
+    }
+]
